@@ -1,0 +1,8 @@
+<library path="nav2_sbpl_lattice_planner_plugin">
+  <class name="nav2_sbpl_lattice_planner/SBPLLatticePlanner" type="nav2_sbpl_lattice_planner::SBPLLatticePlanner" base_class_type="nav2_core::GlobalPlanner">
+    <description>
+      An implementation of search-based planning using anytime A* and a lattice graph.
+    </description>
+  </class>
+</library>
+
